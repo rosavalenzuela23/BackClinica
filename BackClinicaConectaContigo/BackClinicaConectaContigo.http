@@ -1,0 +1,6 @@
+@BackClinicaConectaContigo_HostAddress = http://localhost:5239
+
+GET {{BackClinicaConectaContigo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
